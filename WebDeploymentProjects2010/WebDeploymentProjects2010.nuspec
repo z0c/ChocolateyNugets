@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>WebDeploymentProjects2010</id>
+    <title>Microsoft Visual Studio 2010 Web Deployment Projects</title>
+    <version>10.0.30319.5</version>
+    <authors>Microsoft</authors>
+    <owners>z0c</owners>
+    <summary>Visual Studio® 2010 Web Deployment Projects - RTW</summary>
+    <description>Visual Studio 2010 Web Deployment Projects provide additional functionality to build and deploy Web sites and Web applications in Visual Studio 2010. This add-in provides a comprehensive UI to manage build configurations, merging, and using pre-build and post-build tasks with MSBuild.</description>
+    <projectUrl>http://www.microsoft.com/en-gb/download/details.aspx?id=24509</projectUrl>
+    <tags>Microsoft Visual Studio 2010 Web Deployment Projects</tags>
+    <copyright>© Microsoft</copyright>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
