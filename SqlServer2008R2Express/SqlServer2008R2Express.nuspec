@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SqlServer2008R2Express</id>
+    <title>Sql Server 2008 R2 Express</title>
+    <version>10.50.4000.0</version>
+    <authors>Microsoft</authors>
+    <owners>z0c</owners>
+    <summary>Microsoft SQL Server 2008 R2 Express with Service Pack 2 is a free and feature-rich database for developing and deploying SQL Server 2008 R2.</summary>
+    <description>Microsoft SQL Server 2008 R2 Express with Service Pack 2 is a free, feature-rich edition of SQL Server that is ideal for learning, developing, powering desktop, web and small server applications, and for redistribution by ISVs.</description>
+    <projectUrl>http://www.microsoft.com/en-gb/download/details.aspx?id=30438</projectUrl>
+    <tags>Sql Server 2008 R2 Express database sqlserver</tags>
+    <copyright>Microsoft</copyright>        
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
