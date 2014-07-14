@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AspJpeg</id>
+    <title>Asp Jpeg</title>
+    <version>2.7.0.5</version>
+    <authors>Persits Software</authors>
+    <owners>z0c</owners>
+    <summary>AspJpeg is a server component that will help your ASP or ASP.NET applications with all their image-management needs.</summary>
+    <description>With AspJpeg, you can create high-quality thumbnails, logo-stamp photographs, extract metadata information from images, crop, enhance, rotate, convert, and much more.</description>
+    <projectUrl>http://www.aspjpeg.com</projectUrl>
+    <tags>asp jpeg aspjpeg image manipulation persits</tags>
+    <copyright>Copyright © 1998 - 2014 Persits Software, Inc.</copyright>    
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
