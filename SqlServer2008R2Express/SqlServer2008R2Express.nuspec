@@ -3,7 +3,7 @@
   <metadata>
     <id>SqlServer2008R2Express</id>
     <title>Sql Server 2008 R2 Express</title>
-    <version>10.50.4000.0</version>
+    <version>10.50.4000.1</version>
     <authors>Microsoft</authors>
     <owners>z0c</owners>
     <summary>Microsoft SQL Server 2008 R2 Express with Service Pack 2 is a free and feature-rich database for developing and deploying SQL Server 2008 R2.</summary>
