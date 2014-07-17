@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SwiffChartGenerator</id>
+    <title>Swiff Chart Generator</title>
+    <version>3.0.0.0</version>
+    <authors>GlobFX</authors>
+    <owners>z0c</owners>
+    <summary>Swiff Chart Generator is a web server component that generates charts and graphs in Flash or image format from your ASP.NET and ASP pages, your PHP/JSP/ColdFusion scripts and command line.</summary>
+    <description>Dynamically serve eye-catching animated charts with ASP.NET, PHP and JSP. Query data from a database, apply your own style template created with the Swiff Chart authoring tool and instantly generate high-impact charts in Adobe Flash™ format, PNG/JPG format and SVG/PDF format. Available on Windows and Unix systems.</description>
+    <projectUrl>http://www.globfx.com/products/swfchartgen/</projectUrl>
+    <tags>Swiff Chart Generator globfx charts</tags>
+    <copyright>Copyright © 2001-2014 GlobFX Technologies</copyright>    
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
