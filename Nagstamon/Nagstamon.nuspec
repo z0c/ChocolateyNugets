@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Nagstamon</id>
+    <title>Nagstamon</title>
+    <version>1.0.0.0</version>
+    <authors>Henri Wahl</authors>
+    <owners>z0c</owners>
+    <summary>Nagstamon</summary>
+    <description>Nagstamon is a Nagios status monitor for the desktop. It connects to multiple Nagios, Icinga, Opsview, Centreon, Op5 Monitor/Ninja, Check_MK Multisite and Thruk monitoring servers.</description>
+    <projectUrl>https://nagstamon.ifw-dresden.de/</projectUrl>
+    <tags>nagstamon nagios monitoring</tags>
+    <copyright>© 2008-2014 Henri Wahl et al.</copyright>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
