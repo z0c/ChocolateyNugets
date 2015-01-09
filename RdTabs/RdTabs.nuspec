@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>rdtabs</id>
+    <title>RD Tabs</title>
+    <version>3.1.0.2</version>
+    <authors>Persits Software</authors>
+    <owners>z0c</owners>
+    <summary>AspUpload® is a server component that allows your web application to capture files uploaded with a browser in as little as 2 lines of ASP script.</summary>
+    <description>With AspUpload, files up to 4 GB can be uploaded while only consuming a tiny amount of RAM on the server. The files can be uploaded to disk, memory or the database of your choice. The user can monitor upload progress and time-remaining information via a built-in HTML-based progress bar. 30 day trial version, can be activate programatically with licence key.</description>
+    <projectUrl>http://www.aspupload.com</projectUrl>
+    <tags>asp upload persits</tags>
+    <copyright>Copyright © 1998 - 2014 Persits Software, Inc.</copyright>
+    <iconUrl>https://cdn.rawgit.com/z0c/ChocolateyNugets/master/AspUpload/aspupload_logo.png</iconUrl>
+    <licenseUrl>http://www.aspupload.com/purchase.html</licenseUrl>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
