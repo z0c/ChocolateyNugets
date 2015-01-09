@@ -11,6 +11,8 @@
     <projectUrl>https://nagstamon.ifw-dresden.de/</projectUrl>
     <tags>nagstamon nagios monitoring</tags>
     <copyright>© 2008-2014 Henri Wahl et al.</copyright>
+    <iconUrl>http://cdn.rawgit.com/TomOne/various/b656efdcedbaca1456033b51df2d48b66a575559/nagstamon.png</iconUrl>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
     <releaseNotes></releaseNotes>
   </metadata>
   <files>
