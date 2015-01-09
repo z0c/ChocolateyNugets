@@ -1,5 +1,5 @@
 $packageName = 'rdtabs'
-$installerType = 'MSI'
+$installerType = 'msi'
 $url = 'https://cdn.rawgit.com/z0c/ChocolateyNugets/master/RdTabs/RDTabs_2.1.25.msi'
 $url64 = 'https://cdn.rawgit.com/z0c/ChocolateyNugets/master/RdTabs/RDTabs64_2.1.25.msi'
 $silentArgs = '/q'
