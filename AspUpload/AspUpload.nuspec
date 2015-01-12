@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>aspupload</id>
-    <title>Asp Upload</title>
+    <title>AspUpload</title>
     <version>3.1.0.2</version>
     <authors>Persits Software</authors>
     <owners>z0c</owners>
