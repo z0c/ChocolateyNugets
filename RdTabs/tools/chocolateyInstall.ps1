@@ -1,7 +1,7 @@
 $packageName = 'rdtabs'
 $installerType = 'msi'
-$url = 'https://cdn.rawgit.com/z0c/ChocolateyNugets/master/RdTabs/RDTabs_2.1.25.msi'
-$url64 = 'https://cdn.rawgit.com/z0c/ChocolateyNugets/master/RdTabs/RDTabs64_2.1.25.msi'
+$url = 'http://www.avianwaves.com/Tech/Tools/RDTabs/RDTabs_2.1.25.msi'
+$url64 = 'http://www.avianwaves.com/Tech/Tools/RDTabs/RDTabs64_2.1.25.msi'
 $silentArgs = '/q'
 $validExitCodes = @(0)
 

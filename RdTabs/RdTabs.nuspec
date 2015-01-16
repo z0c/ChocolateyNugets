@@ -3,8 +3,8 @@
   <metadata>
     <id>rdtabs</id>
     <title>RD Tabs</title>
-    <version>2.1.25.0</version>
-    <authors>	Avian Waves</authors>
+    <version>2.1.25</version>
+    <authors>Avian Waves</authors>
     <owners>z0c</owners>
     <summary>The Ultimate Remote Desktop Client.</summary>
     <description>Not only does it provide all the expected features of applications, like modern browsers, but it takes Remote Desktop to the next level with features such as favorites with advanced batch editing, command line scripting, encrypted passwords, detached connection windows, remote desktop screen capture, remote terminal server information/management, and much more!</description>
